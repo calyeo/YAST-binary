@@ -1,4 +1,8 @@
 # YAST-binary
+This tool is written in rust and thus would be capable to run on most platforms.
+Current repo hosts only screenshots and compiled binary. 
+
+
 ```
 yast 0.1.0
 Cal Yeo
