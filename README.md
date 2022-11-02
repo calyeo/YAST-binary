@@ -17,31 +17,5 @@ SUBCOMMANDS:
     urlfuzz
   
   
-  
-  
-  
-  yast.exe urlfuzz --help
-yast.exe-urlfuzz 0.1.0
-
-USAGE:
-    yast.exe urlfuzz [OPTIONS] <CMD> <TARGET>
-
-ARGS:
-    <CMD>       commands to execute: urlfuzz [default: urlfuzz]
-    <TARGET>    target to be fuzzed
-
-OPTIONS:
-    -c, --thread <THREAD_COUNT>
-            number of threads to use  [default: 1]
-
-    -h, --help
-            Print help information
-
-    -p, --protocol <PROTOCOL>
-            protocol [default: http]
-
-    -V, --version
-            Print version information
-
-    -w, --wordlist <WORDLIST_LOCATION>
-            wordlist location eg. /tmp/rockyou.txt [default: rockyou.txt]
+  ![s1](https://user-images.githubusercontent.com/22490792/199372372-7308beb3-d4c3-40fc-90ef-aef98a37c900.png)
+![1662330016111](https://user-images.githubusercontent.com/22490792/199372381-0e20d0f8-2ece-46ae-a6bb-43363047cc20.jpg)
